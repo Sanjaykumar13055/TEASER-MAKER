@@ -26,9 +26,10 @@ The Teaser-Maker project is designed to create teaser videos from longer video f
 
 ## ARCHITECTURE DIAGRAM OF IMPLEMENTATION
 
-![ARCHITECTURE](https://drive.google.com/file/d/1Dx0MDxJqNuB1d59nCiC6RSnkNwhBphFV/view?usp=sharing)
+[View Architecture Diagram](https://drive.google.com/file/d/1Dx0MDxJqNuB1d59nCiC6RSnkNwhBphFV/view?usp=sharing)
 
 ## DEMO VIDEO
 
-![DEMO](https://drive.google.com/file/d/1cc9MVgFl184H-obXOzYB-LYic3p_LcJq/view?usp=sharing)
+[Watch Demo Video](https://drive.google.com/file/d/1cc9MVgFl184H-obXOzYB-LYic3p_LcJq/view?usp=sharing)
+
 
