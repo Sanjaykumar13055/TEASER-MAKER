@@ -20,7 +20,7 @@
 6. **FFmpeg**  
    A versatile command-line tool for handling multimedia data. Although not directly used in the code, FFmpeg is essential for audio extraction, and its path is set in the environment variables to ensure compatibility with MoviePy’s audio processing functions.
    
-7.**yt-dlp** 
+7. **Yt-dlp** 
 For downloading YouTube videos by giving the link of the Video which will access the youtube and process it
 
 ## PROJECT OVERVIEW
