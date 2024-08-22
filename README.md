@@ -19,10 +19,20 @@
 
 6. **FFmpeg**  
    A versatile command-line tool for handling multimedia data. Although not directly used in the code, FFmpeg is essential for audio extraction, and its path is set in the environment variables to ensure compatibility with MoviePy’s audio processing functions.
+   
+7.**yt-dlp** 
+For downloading YouTube videos by giving the link of the Video which will access the youtube and process it
 
 ## PROJECT OVERVIEW
 
 The Teaser-Maker project is designed to create teaser videos from longer video files by integrating advanced audio processing and text summarization techniques. The application extracts audio from uploaded videos using MoviePy, transcribes it with OpenAI's Whisper model, and summarizes the resulting text with the BART model. It identifies key segments of the video based on the transcript using TF-IDF and cosine similarity, then combines these segments into a concise teaser video. The user-friendly interface allows for seamless uploading, viewing of transcripts and summaries, and downloading of the final teaser.
+
+## CONTRIBUTIONS
+1.[KEERTHANA S](https://github.com/keerthu16)
+2.[LEKHA S](https://github.com/lekha0612)
+3.[SANJAY KUMAR K](https://github.com/Sanjaykumar13055)
+4.[DHANUSH S](https://github.com/Dh4nu5h)
+5.[RAHUL A](https://github.com/Rahuleey)
 
 ## ARCHITECTURE DIAGRAM OF IMPLEMENTATION
 
