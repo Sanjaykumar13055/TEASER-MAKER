@@ -40,7 +40,7 @@ The Teaser-Maker project is designed to create teaser videos from longer video f
 
 ## ARCHITECTURE DIAGRAM OF IMPLEMENTATION
 
-[TEASER-MAKER ARCHITECTURE](https://drive.google.com/file/d/1MbBCu7Ktl4TwasQ0h1i0AXcl4Gy12KuU/view?usp=sharing)
+![TEASER-MAKER ARCHITECTURE](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser-Maker%20Architecture.jpg)
 
 [AUDIO EXTRACTION](https://drive.google.com/file/d/1BHDedW9_NvZ_rSBsiUHvcLfzFajR21Bk/view?usp=sharing)
 
@@ -48,8 +48,36 @@ The Teaser-Maker project is designed to create teaser videos from longer video f
 
 [KEY SEGMENTS](https://drive.google.com/file/d/1oUmmS-HDzrnuYXncZdzSIpDvokX-baqj/view?usp=sharing)
 
+## KEY FEATURES
+
+1. **Video Processing:** Handles both local files and YouTube links.
+2. **Audio Extraction:** Converts video to audio for text transcription.
+3. **Transcript Generation:** Utilizes Whisper AI to convert audio to
+text.
+4. **Text Summarization:** Summarizes lengthy transcripts using the
+BART model.
+5. **Emotion Detection:** Identifies emotional peaks in the transcript to
+determine key moments.
+6. **Teaser Creation:** Automatically assembles the most emotionally
+impactful and important segments into a teaser video.
+
 ## DEMO VIDEO
 
 [Watch Demo Video](https://drive.google.com/file/d/1cc9MVgFl184H-obXOzYB-LYic3p_LcJq/view?usp=sharing)
+
+## OUTPUTS
+![TEASER1](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser%20Output-1.png)
+
+![TEASER5](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser-Output-6.png)
+
+![TEASER2](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser-Output-2.png)
+
+![TEASER3](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser-Output-3.png)
+
+![TEASER4](https://github.com/Sanjaykumar13055/TEASER-MAKER/blob/7218e1587435c902b94a25c08ac54bcc8a6e2c51/Assests/Teaser-Output-5.png)
+
+## OUTPUT VIDEO
+[Watch Output Video](https://drive.google.com/file/d/1z_C1UVrEV46cqvhMa5ThbykusCXLIp4V/view)
+
 
 
