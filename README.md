@@ -32,11 +32,13 @@ The Teaser-Maker project is designed to create teaser videos from longer video f
 
 2.[LEKHA S](https://github.com/lekha0612)
 
-3.[SANJAY KUMAR K](https://github.com/Sanjaykumar13055)
+3.[SANJAY KUMAR K](https://github.com/Sanjaykumar13055) 
 
-4.[DHANUSH S](https://github.com/Dh4nu5h)
+4.[JEFFREY DANIEL](http://github.com/jeffreydaniel)
 
-5.[RAHUL A](https://github.com/Rahuleey)
+5.[DHANUSH S](https://github.com/Dh4nu5h)
+
+6.[RAHUL A](https://github.com/Rahuleey)
 
 ## ARCHITECTURE DIAGRAM OF IMPLEMENTATION
 
